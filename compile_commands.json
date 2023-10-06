@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Iinclude",
+      "-o",
+      "utils",
+      "src/main.c"
+    ],
+    "directory": "/home/erick/programming/clang/utils",
+    "file": "/home/erick/programming/clang/src/main.c",
+    "output": "/home/erick/programming/clang/utils"
+  }
+]
